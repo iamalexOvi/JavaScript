@@ -1,4 +1,3 @@
-
 <script>
   var Name = "Ovey Alexander";
   var Height = 1.70;
